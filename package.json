@@ -1,0 +1,22 @@
+{
+  "name": "seezeit-mensa-menu",
+  "version": "1.0.0",
+  "description": "Provides programmatic access to Seezeit menus",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderFillbrunn/seezeit-mensa-menu.git"
+  },
+  "author": "Alexander Fillbrunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderFillbrunn/seezeit-mensa-menu/issues"
+  },
+  "homepage": "https://github.com/AlexanderFillbrunn/seezeit-mensa-menu#readme",
+  "dependencies": {
+    "jsdom": "^13.0.0"
+  }
+}
